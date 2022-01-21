@@ -28,7 +28,7 @@
     "github"
   ],
   "dependencies": {
-    "isomorphic-fetch": "^2.2.0"
+    "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^0.3.0"
