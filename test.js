@@ -4,7 +4,7 @@ import githubUpstreamUrl from './';
 test('Must return a github upstream URL', t => {
 	githubUpstreamUrl('hemanth/node')
 		.then((url) => {
-			 t.is(url, 'https://github.com/nodejs/node-v0.x-archive.git')
+			 t.is(url, 'https://github.com/nodejs/node.git')
 		     t.end();
 			});
 });

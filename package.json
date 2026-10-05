@@ -1,6 +1,6 @@
 {
   "name": "github-upstream-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the upstream URL for your fork.",
   "license": "MIT",
   "repository": "hemanth/github-upstream-url",
@@ -28,7 +28,7 @@
     "github"
   ],
   "dependencies": {
-    "isomorphic-fetch": "^2.2.0"
+    "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {
     "ava": "^0.3.0"
